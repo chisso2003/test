@@ -5,7 +5,7 @@ echo "<h1>Hello from Azure App Service!</h1>";
 // Database connection settings
 $host = "websales01-server.mysql.database.azure.com"; // Replace with your MySQL Flexible Server hostname
 $username = "pkoibaloty@your-mysql-server"; // Replace with your MySQL username
-$password = "Eae8a$kDtnsOR$co"; // Replace with your MySQL password
+$password = "mysqlverysecure1!"; // Replace with your MySQL password
 $dbname = "websales01-database"; // Replace with your MySQL database name
 
 // Test database connectivity
