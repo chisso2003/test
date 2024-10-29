@@ -1,6 +1,6 @@
 <?php
 // Database configuration
-echo "Cuantas copas tenes Mauro?"
+echo "Cuantas copas tenes Mauro?";
 $servername = "websales01-server.mysql.database.azure.com";
 $username = "pkoibaloty";
 $password = "mysqlverysecure1!";
